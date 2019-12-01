@@ -1,2 +1,2 @@
-# fei.github.io
+# feixue-stat.github.io
 Personal homepage
