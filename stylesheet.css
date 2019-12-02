@@ -10,6 +10,7 @@ html, body, div, span, h2, h4, hr, img, table, tr, td, header, nav, footer
   outline: 0;
   vertical-align: baseline;
   background: transparent;
+  line-height: 1.5;
 }
 
 img
