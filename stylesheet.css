@@ -49,7 +49,7 @@ font-family:"EB Garamond", serif;
     font-weight: normal;
     text-transform: uppercase;
     font-size: 36px;
-    line-height: 46px;
+    line-height: 1.5;
     letter-spacing: 3px;
 }
 
@@ -61,7 +61,7 @@ font-family:"EB Garamond", serif;
     font-weight: normal;
     text-transform: uppercase;
     font-size: 18px;
-    line-height: 28px;
+    line-height: 1.5;
     letter-spacing: 2px;
 }
 
@@ -96,7 +96,7 @@ nav
  	margin: 0 auto;
  	padding: 0 50px;   /* side padding should match that of the content div */
 	width: 600px;      /* width should match that of the content div */	
-	line-height: 24px; /* pads nav bar */
+	line-height: 1.5; /* pads nav bar */
 }
 
 
