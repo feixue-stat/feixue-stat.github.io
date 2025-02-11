@@ -96,7 +96,7 @@ nav
  	text-align: center; /* center aligns nav bar */
  	margin: 0 auto;
  	padding: 0 50px;   /* side padding should match that of the content div */
-	width: 600px;      /* width should match that of the content div */	
+	width: 1200px;      /* width should match that of the content div */	
 	line-height: 1.5; /* pads nav bar */
 }
 
@@ -125,7 +125,7 @@ nav li
 {
   margin: 0 auto;          /* centers the content div on the page */
   padding: 20px 50px 0px;  /* makes room for the header, leaves some space at the sides of the page */
-  width: 600px;
+  width: 1200px;
 }
 
 
